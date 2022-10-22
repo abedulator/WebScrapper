@@ -1,0 +1,19 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "Webscrapper de Puntuaciones de Metacritic",
+  "main": "metacritic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abedulator/WebScrapper.git"
+  },
+  "author": "Guillermo Woivre Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abedulator/WebScrapper/issues"
+  },
+  "homepage": "https://github.com/abedulator/WebScrapper#readme"
+}
